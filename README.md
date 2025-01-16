@@ -37,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Vercel Preview
 
-Check out [Next.js deployment documentation](https://nextjs-jkc867bek-bayuwijanarko07s-projects.vercel.app/) for Preview.
+Check out [Vercel Preview](https://nextjs-jkc867bek-bayuwijanarko07s-projects.vercel.app/) for Preview.
